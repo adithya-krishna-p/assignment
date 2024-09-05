@@ -48,9 +48,9 @@ const Widget1 = () => {
 
 
       <div className='flex justify-start space-x-4 ml-4  ' >
-        <div className='pt-5 flex justify-start space-x-10  mr-5  text-gray-400'>
+        <div className='pt-5 flex justify-start space-x-10  mr-16  text-gray-400'>
         <img className='h-7 w-7 mt-10 ' src={icon1}></img>
-        <p className='size-12/12  '>Hello! l'm Dave, your sales rep here from Salesforce. I've been working at this awesome company for 3 years now.
+        <p className='  '>Hello! l'm Dave, your sales rep here from Salesforce. I've been working at this awesome company for 3 years now.
         <br></br>
         <br></br>
         I was born and raised in Albany, Ny & have been living in Santa Carla for the past 10 years my wife Tiffany and my 4 ear old twin daughters- Emma and Ella. Both of them are just starting school, so my calender is usually blocked between 9-10 AM. This is a...</p>
