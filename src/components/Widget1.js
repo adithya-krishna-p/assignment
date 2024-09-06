@@ -8,7 +8,7 @@ const Widget1 = () => {
   return (
     
     <div className=" mt-2  mr-12 p-2 mb-10  ">
-      <div className="flex flex-col w-[720px] h-[316px] mt-7 pt-6 mx-auto mr-[40px] bg-gray-700   text-white rounded-lg shadow-2xl shadow-black">
+      <div className="flex flex-col w-[720px] h-[316px] mt-7 pt-6 mx-auto mr-[40px] bg-zinc-700   text-white rounded-lg shadow-2xl shadow-black">
 
 
       <div className=' flex rounded-full justify-start ml-4 '>
